@@ -147,7 +147,7 @@ echo -e "${BOLD}${BLUE}
 $RED
 ${RED} |\ |\    ${BLUE}Telegram  : ${RED}t.me/rebl0x3r
 ${RED} \ \| |   ${BLUE}Coder	    : ${MAGENTA}@TheMasterCH
-${RED}  \ | |	  ${BLUE}Update    : ${GREEN}v1.0 ${RED}[BETA]
+${RED}  \ | |	  ${BLUE}Update    : ${GREEN}v0.2 ${RED}[BETA]
 ${RED} .--''/	  ${BLUE}Path      : ${YELLOW}$path
 ${RED}/o     \  ${BLUE}Logo	    : ${CYAN}Playboy Bunny
 ${RED}\      /  ${BLUE}Sites     : ${RED}1
