@@ -104,17 +104,33 @@ function socks5 {
     fi
     }
 
+function update {
+    clear
+    c=$(git checkout master &>/dev/null)
+    if [[ $c != "Already on 'master'" ]]; then
+        echo -e "${GREEN}[*] ${YELLOW}You are on latest version."
+        sleep 1
+        clear
+    else
+        echo -e "${YELLOW}[*]${BLUE}Update found..."
+        git pull origin master
+        sleep 1 
+        clear
+    fi
+    }
 
 
 
 
 
 # Banner
+clear
 if [ "$EUID" -ne 0 ]
   then echo -e "${RED}[!] Please run as root"
   exit
 fi
-clear
+sleep 0.5
+update
 echo -e "${BOLD}${BLUE}
 ██████╗ ██████╗  ██████╗ ██╗  ██╗██╗   ██╗
 ██╔══██╗██╔══██╗██╔═══██╗╚██╗██╔╝╚██╗ ██╔╝
