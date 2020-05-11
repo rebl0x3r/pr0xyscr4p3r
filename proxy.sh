@@ -106,18 +106,18 @@ function socks5 {
 
 function update {
     clear
-    c=$(git checkout master &>/dev/null)
-    if [[ $c != "Already on 'master'" ]]; then
-        echo -e "${GREEN}[*] ${YELLOW}You are on latest version."
-        sleep 1
-        clear
-    else
-        echo -e "${YELLOW}[*]${BLUE}Update found..."
-        git pull origin master
-        sleep 1 
-        clear
-    fi
+    cd .. 
+    rm -rf pr0xyscr4p3r
+    echo -e "${YELLOW}[*] ${BLUE}Updating..."
+    sleep 1
+    git clone https://github.com/rebl0x3r/pr0xyscr4p3r.git
+    sleep 1
+    echo -e "${YELLOW}[*] ${BLUE}Restarting Script"
+    sleep 1
+    clear
+    bash proxy.sh
     }
+    
 
 
 
@@ -153,6 +153,7 @@ ${RED}/o     \  ${BLUE}Logo	    : ${CYAN}Playboy Bunny
 ${RED}\      /  ${BLUE}Sites     : ${RED}1
 ${RED}{>o<}='   ${BLUE}User      : ${GREEN}$user
 
+${RED}[u] ${YELLOW}Update
 ${RED}[1] ${YELLOW}Setup
 ${RED}[2] ${YELLOW}HTTP Scrape
 ${RED}[3] ${YELLOW}Socks4 Scrape
@@ -164,6 +165,12 @@ ${GREEN}╰╼${RED} $ ${YELLOW}:${CYAN} "
 read opt
 
 case $opt in
+    u)
+    update
+    ;;
+    U)
+    update
+    ;;
     1)
     setup
     ;;
