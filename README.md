@@ -21,11 +21,16 @@
 
  ## In Progress:
  
-  **Version 0.2**
+  **Version 0.3**
   * More Websites
-  * Better Menu
+  * Results Folder
  
   ## Already leaked versions:
+  
+  **[BETA] Version 0.2
+  
+  * Added Update Function
+  * Little Changes
   
   **[BETA] Version 0.1:**
   
