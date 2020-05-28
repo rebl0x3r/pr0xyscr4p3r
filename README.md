@@ -21,9 +21,7 @@
 
  ## In Progress:
  
-  **Version 0.3**
-  * More Websites
-  * Results Folder
+  *PROCESS STOPPED*
  
   ## Already leaked versions:
   
