@@ -145,7 +145,7 @@ echo -e "${BOLD}${BLUE}
 ███████║╚██████╗██║  ██║██║  ██║██║     ███████╗██║  ██║
 ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝
 $RED
-${RED} |\ |\    ${BLUE}Telegram  : ${RED}t.me/rebl0x3r
+${RED} |\ |\    ${BLUE}Telegram  : ${RED}t.me/leakerhounds
 ${RED} \ \| |   ${BLUE}Coder	    : ${MAGENTA}@TheMasterCH
 ${RED}  \ | |	  ${BLUE}Update    : ${GREEN}v0.2 ${RED}[BETA]
 ${RED} .--''/	  ${BLUE}Path      : ${YELLOW}$path
