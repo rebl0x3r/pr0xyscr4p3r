@@ -1,5 +1,6 @@
 # BASIC AUTO PROXYSCRAPER 
 
+![Screenshot](proxy.png)
 
 # Table of contents:
 * [General Information](#general-info)
@@ -25,7 +26,7 @@
  
   ## Already leaked versions:
   
-  **[BETA] Version 0.2
+  **[BETA] Version 0.2**
   
   * Added Update Function
   * Little Changes
