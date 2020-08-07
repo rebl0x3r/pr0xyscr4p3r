@@ -65,9 +65,9 @@
 Telegram:
 * @TheMasterCH
 * @On1c0n3
-* @rebl0x3r
+* @viperzcrew
 
-# Join us at telegram: https://t.me/rebl0x3r  
+# Join us at telegram: https://t.me/viperzcrew  
 
 # Bug Report
   If you found any bug or issue, pless go [here](https://github.com/rebl0x3r/pr0xyscr4p3r/issues)
