@@ -59,11 +59,11 @@
 
 # Credits
 
-* Credits: Rebl0x3r - TheMasterCH
+* Credits: @LeakerHounds
 
 # Social Media
 Telegram:
-* @TheMasterCH
+* @mrblackx2_0
 * @On1c0n3
 * @viperzcrew
 
