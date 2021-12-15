@@ -145,8 +145,8 @@ echo -e "${BOLD}${BLUE}
 ███████║╚██████╗██║  ██║██║  ██║██║     ███████╗██║  ██║
 ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝
 $RED
-${RED} |\ |\    ${BLUE}Telegram  : ${RED}t.me/leakerhounds
-${RED} \ \| |   ${BLUE}Coder	    : ${MAGENTA}@TheMasterCH
+${RED} |\ |\    ${BLUE}Telegram  : ${RED}t.me/mrblackx
+${RED} \ \| |   ${BLUE}Coder	    : ${MAGENTA}@mrblackx
 ${RED}  \ | |	  ${BLUE}Update    : ${GREEN}v0.2 ${RED}[BETA]
 ${RED} .--''/	  ${BLUE}Path      : ${YELLOW}$path
 ${RED}/o     \  ${BLUE}Logo	    : ${CYAN}Playboy Bunny
